@@ -4,7 +4,7 @@ en:
       wizard:
         field:
           type:
-            national-flag: "National Flag"
+            national-flag: "Country"
   js:
     flags: 
       label: "National Flag"
